@@ -14,12 +14,12 @@ const authors=[
   {
   id:"1",
   name:"Payal",
-  books:["123Book","abcBook"]
+  books:["123Book","abcBook","12BOOK"]
 },
 {
 id:"2",
 name:"Elon Musk",
-books:["123Book"]
+books:["123Book","12BOOK"]
 }
 ]
 
@@ -28,6 +28,11 @@ const publishers=[
   id:"1",
   name:"writex",
   books:["123Book"]
+},
+{
+id:"2",
+name:"writex2",
+books:[]
 }
 ]
 
